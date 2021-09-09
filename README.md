@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Yong Han. <img src="https://github.com/hammieee/hammieee/blob/main/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/hammieee/hammieee/blob/main/gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/hammieee/hammieee/blob/main/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
